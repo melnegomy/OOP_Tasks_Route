@@ -1,0 +1,14 @@
+D:\programming\Route\OOP\oop_ass_1\bin\Debug\net8.0\oop_ass_1.exe
+D:\programming\Route\OOP\oop_ass_1\bin\Debug\net8.0\oop_ass_1.deps.json
+D:\programming\Route\OOP\oop_ass_1\bin\Debug\net8.0\oop_ass_1.runtimeconfig.json
+D:\programming\Route\OOP\oop_ass_1\bin\Debug\net8.0\oop_ass_1.dll
+D:\programming\Route\OOP\oop_ass_1\bin\Debug\net8.0\oop_ass_1.pdb
+D:\programming\Route\OOP\oop_ass_1\obj\Debug\net8.0\oop_ass_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Route\OOP\oop_ass_1\obj\Debug\net8.0\oop_ass_1.AssemblyInfoInputs.cache
+D:\programming\Route\OOP\oop_ass_1\obj\Debug\net8.0\oop_ass_1.AssemblyInfo.cs
+D:\programming\Route\OOP\oop_ass_1\obj\Debug\net8.0\oop_ass_1.csproj.CoreCompileInputs.cache
+D:\programming\Route\OOP\oop_ass_1\obj\Debug\net8.0\oop_ass_1.dll
+D:\programming\Route\OOP\oop_ass_1\obj\Debug\net8.0\refint\oop_ass_1.dll
+D:\programming\Route\OOP\oop_ass_1\obj\Debug\net8.0\oop_ass_1.pdb
+D:\programming\Route\OOP\oop_ass_1\obj\Debug\net8.0\oop_ass_1.genruntimeconfig.cache
+D:\programming\Route\OOP\oop_ass_1\obj\Debug\net8.0\ref\oop_ass_1.dll
