@@ -1,0 +1,14 @@
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\bin\Debug\net10.0\Assignment 02.exe
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\bin\Debug\net10.0\Assignment 02.deps.json
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\bin\Debug\net10.0\Assignment 02.runtimeconfig.json
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\bin\Debug\net10.0\Assignment 02.dll
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\bin\Debug\net10.0\Assignment 02.pdb
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\obj\Debug\net10.0\Assignment 02.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\obj\Debug\net10.0\Assignment 02.AssemblyInfoInputs.cache
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\obj\Debug\net10.0\Assignment 02.AssemblyInfo.cs
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\obj\Debug\net10.0\Assignment 02.csproj.CoreCompileInputs.cache
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\obj\Debug\net10.0\Assignment 02.dll
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\obj\Debug\net10.0\refint\Assignment 02.dll
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\obj\Debug\net10.0\Assignment 02.pdb
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\obj\Debug\net10.0\Assignment 02.genruntimeconfig.cache
+D:\programming\Route\OOP\OOP_Tasks\Tasks_2\obj\Debug\net10.0\ref\Assignment 02.dll
